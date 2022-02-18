@@ -1,0 +1,3 @@
+# packages in environment at C:\Users\wjstm\Anaconda3\envs\cv-env:
+#
+# Name                    Version                   Build  Channel
